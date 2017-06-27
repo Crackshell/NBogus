@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBogus", "NBogus\NBogus.csproj", "{5D45FB0C-4DE1-4FC8-B457-AF8CB84DC6CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D45FB0C-4DE1-4FC8-B457-AF8CB84DC6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D45FB0C-4DE1-4FC8-B457-AF8CB84DC6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D45FB0C-4DE1-4FC8-B457-AF8CB84DC6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D45FB0C-4DE1-4FC8-B457-AF8CB84DC6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
